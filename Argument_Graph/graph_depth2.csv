@@ -1,6 +1,6 @@
 arg_id,prev_arg_id,Argument,Concern1,Concern2,Concern3,Concern4
 Depth2_1,Depth1_44,"A degree is important but not necessary, often companies also want people that have better work ethics and more work experience instead of academic knowledge.",job,,,
-Depth2_2,Depth1_44,I do not think that the number of students will be significantly reduced by paid studies. If someone is determined to study then he will find financial resources for the payment even if he has to find a float or take a loan.,loan,,,
+Depth2_2,Depth1_44,I don't think that the number of students will be significantly reduced by paid studies. If someone is determined to study then he will find financial resources for the payment even if he has to find a float or take a loan.,loan,,,
 Depth2_3,Depth1_44,"Education is important not only from an individual point of view, but also for society. Everyone should be encouraged to go to university. Maybe student loans need to be reframed to the student saying thank you when they can afford to do so.",afford,loan,,
 Depth2_4,Depth1_68,"But what if this person who is given free education is someone who does not have the skills to actually have that profession? And just be, for example, a doctor, because it was given to you for free.",free,,,
 Depth2_5,Depth1_68,"There are loans about so no one pays fees up front anyway, only when they have secured a job. ",loan,job,,
@@ -11,7 +11,7 @@ Depth2_9,Depth1_5,"I agree, better education has a positive impact far beyond be
 Depth2_10,Depth1_5,Better education does not mean it's free. But better education actually leads to better performance and the possibility of better jobs.,job,free,,
 Depth2_11,Depth1_60,Sure but then the government will have to enforce taxes in order to sustain the universities,government,tax,,
 Depth2_12,Depth1_60,"Why is diversity in the student population worthwhile as an aim in itself, if there is equal opportunity to finance education through student loans.",loan,,,
-Depth2_13,Depth1_60,If a student really wants to do a degree in their chosen field they will take on the tuition fee loan or look for other ways to achieve a degree. Maybe the less committed would think twice before pursuing a degree. A degree isn’t for everyone. ,loan,,,
+Depth2_13,Depth1_60,If a student really wants to do a degree in their chosen field they will take on the tuition fee loan or look for other ways to achieve a degree. Maybe the less committed would think twice before pursuing a degree. A degree isnâ€™t for everyone. ,loan,,,
 Depth2_14,Depth1_1,"I agree in principle, however, a large proportion of the population will never go to university, therefore it would be unfair to let them pay for it through taxes.",tax,,,
 Depth2_15,Depth1_1,"Regardless whether education is a human right or not, making it free will only lower the quality available to everyone. Free education would be wasted on some people. ",free,,,
 Depth2_16,Depth1_1,"Education is not a human right. In the UK you receive a free education upto the age of 18, if you choose to remain in education after this you should pay for it. ",free,,,
@@ -42,7 +42,7 @@ Depth2_40,Depth1_53,It is more widely accessible now than it has ever been. More
 Depth2_41,Depth1_53,Education should be the responsibility of the state to the magistrate level. And any fees charged on forced internships of educated graduates.,free,,,
 Depth2_42,Depth1_66,"It's true that education is essential to better civilisation, but it IS accessible by all those who desire it. Nothing is impossible, there are plenty of options to earn money with a good job or even pay a loan.",loan,job,accessible,
 Depth2_43,Depth1_66,"There is the opportunity of scholarships that exceptional students stand out and only students that deserve it, have tuitions for free",scholarship,free,,
-Depth2_44,Depth1_66,"Tuition fees don’t make things inaccessible, just make it necessary for people to really consider whether university is right for them and their career path",job,,,
+Depth2_44,Depth1_66,"Tuition fees donâ€™t make things inaccessible, just make it necessary for people to really consider whether university is right for them and their career path",job,,,
 Depth2_45,Depth1_4,"Everyone HAS access to university education due to the student loans that are given to everybody. It should, however, not be for free, hence free university education means increasing taxes for everyone, including those that do not go to university.",tax,loan,accessible,free
 Depth2_46,Depth1_4,"Yes, but if people are really good students there are free scholarships for poor people",scholarship,free,,
 Depth2_47,Depth1_4,"Concessions should be made for those who are not able to financially afford  university education. However, they must meet certain qualifying criteria first.",afford,,,
